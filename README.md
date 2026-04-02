@@ -31,13 +31,13 @@ Enemy AI behavior
 
 ### Full QA Notes available in portfolio
 
+## Tech Stack
+Unreal Engine 5
+Blueprints / C++
+
 ## Download
 
 The game build is available on itch.io:
 
 ### https://wichersky.itch.io/drops-of-lethe
 --------------------------------------------
-
-## Tech Stack
-Unreal Engine 5
-Blueprints / C++
