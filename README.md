@@ -36,6 +36,7 @@ Enemy AI behavior
 The game build is available on itch.io:
 
 ### https://wichersky.itch.io/drops-of-lethe
+--------------------------------------------
 
 ## Tech Stack
 Unreal Engine 5
