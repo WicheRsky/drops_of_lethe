@@ -1,3 +1,7 @@
+![Unreal Engine](https://img.shields.io/badge/Engine-Unreal%20Engine%205-blue)
+![Status](https://img.shields.io/badge/Status-Prototype-yellow)
+![QA](https://img.shields.io/badge/Focus-QA%20%26%20Testing-green)
+
 # Drops of Lethe
 
 ### A roguelite hack’n’slash game created in Unreal Engine 5.
