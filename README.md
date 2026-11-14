@@ -5,44 +5,47 @@
 
 # Drops of Lethe
 
-### A roguelite hack’n’slash game created in Unreal Engine 5.
+### A third-person roguelite hack’n’slash game created in Unreal Engine 5 as part of my bachelor project.
 
-This project focuses on combat mechanics, stamina system and overall gameplay feel.
-Developed as part of a bachelor project.
-
-## About the Project
-
-Drops of Lethe is a third-person action game where the player fights enemies using melee combat, dodge mechanics and stamina management.
-
-The main goal of the project was to design and implement core gameplay systems and improve them through testing and iteration.
+The project focuses on melee combat, stamina management, enemy behavior and responsive gameplay.
 
 ## Features
-Combat system (attacks, combos)
+
+Melee combat system with attacks and combos
+
 Dodge and stamina system
+
 Enemy AI behavior
-HUD (health and stamina)
+
+Health and stamina HUD
+
 Room-based progression
 
-## QA & Testing
-
-This project was also used to practice manual testing and bug identification.
-
-### Examples of tested areas:
-
-Combat responsiveness
-Animation transitions
-Edge cases in stamina usage
-Enemy AI behavior
-
-### Full QA Notes available in portfolio
-
 ## Tech Stack
+
 Unreal Engine 5
-Blueprints / C++
 
-## Download
+Blueprints
 
-The game build is available on itch.io:
+C++
+
+## Testing
+
+During development I tested gameplay systems and iterated on issues related to:
+
+combat responsiveness
+
+animation transitions
+
+stamina edge cases
+
+enemy AI behavior
+
+More detailed QA notes are available in my portfolio.
+
+## Play the Game
+
+A playable Windows build is available on itch.io:
 
 ### https://wichersky.itch.io/drops-of-lethe
 --------------------------------------------
