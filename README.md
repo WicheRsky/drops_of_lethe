@@ -1,7 +1,8 @@
-![Unreal Engine](https://img.shields.io/badge/Engine-Unreal%20Engine%205-blue)
-![Status](https://img.shields.io/badge/Status-Prototype-yellow)
-![QA](https://img.shields.io/badge/Focus-QA%20%26%20Testing-green)
-![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
+![Game](https://img.shields.io/badge/Project-Drops%20of%20Lethe-blue)
+![Engine](https://img.shields.io/badge/Engine-Unreal%20Engine%205-black)
+![Tech](https://img.shields.io/badge/Tech-C%2B%2B%20%26%20Blueprints-orange)
+![Genre](https://img.shields.io/badge/Genre-Roguelite%20Hack'n'Slash-purple)
+![Status](https://img.shields.io/badge/Status-Completed-green)
 
 # Drops of Lethe
 
