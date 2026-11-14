@@ -5,7 +5,7 @@
 
 # Drops of Lethe
 
-### A third-person roguelite hack’n’slash game created in Unreal Engine 5 as part of my bachelor project.
+A third-person roguelite hack’n’slash game created in Unreal Engine 5 as part of my bachelor project.
 
 The project focuses on melee combat, stamina management, enemy behavior and responsive gameplay.
 
